@@ -4,7 +4,7 @@ The task of this assessment is to build a simple API using Node and Express.
 
 ## Getting Started
 
-The src folder has index.ts which creates the server and starts listening on port 3000. The routes folder has index.ts file which creates an express router and configures the recipes endpoint to use the module recipes from routes/api/recipes.ts.
+The src folder has index.ts which creates the server and starts listening on port 3000. The recipe_routes creates all the required routes.
 
 ## Instructions
 
@@ -16,6 +16,8 @@ npm install
 npm run start
 //OR
 node dist/index.js
+
+npm run test //to run tests
 ```
 
 After running the npm run start or node dist/index.js you will be prompted that the server has started on port 3000.
