@@ -24,3 +24,4 @@ GET [http://localhost:3000/recipes] - this would display list of recipes
 GET [http://localhost:3000/recipes/details/chai] - this would show you the ingrediests and the number of steps
 POST [http://localhost:3000/recipes/] - this will add a new recipe to the dataset if it is not already present
 PUT [http://localhost:3000/recipes/] - this will update a recipe if it exists in the dataset
+test
