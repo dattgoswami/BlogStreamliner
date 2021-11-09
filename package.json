@@ -1,8 +1,8 @@
 {
-  "name": "hatchways",
+  "name": "hatchways-backend-assessment",
   "version": "1.0.0",
-  "description": "simple api using express and node",
-  "main": "index.js",
+  "description": "Blog Posts - simple backend api that uses the query parameters to fetch blog posts",
+  "main": "server.js",
   "scripts": {
     "start": "nodemon src/server.ts",
     "test": "npm run build && jasmine",
@@ -25,6 +25,7 @@
     "typescript": "^4.4.3"
   },
   "dependencies": {
+    "axios": "^0.24.0",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
