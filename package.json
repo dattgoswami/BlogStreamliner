@@ -1,7 +1,7 @@
 {
   "name": "hatchways-backend-assessment",
   "version": "1.0.0",
-  "description": "Blog Posts - simple backend api that uses the query parameters to fetch blog posts",
+  "description": "Float Card test - Blog Posts - simple backend api that uses the query parameters to fetch blog posts",
   "main": "server.js",
   "scripts": {
     "start": "nodemon src/server.ts",
