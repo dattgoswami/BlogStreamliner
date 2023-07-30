@@ -2,7 +2,7 @@
 
 (built in 5h)
 
-The task of this assessment is to build a simple backend JSON API that fetches the posts based on query parameters. It also maintains an in memory cache of the requests and reads subsequent request from there instead of making a network call.
+The task of this project is to build a simple backend JSON API that fetches the posts based on query parameters. It also maintains an in memory cache of the requests and reads subsequent request from there instead of making a network call.
 
 ## Getting Started
 
